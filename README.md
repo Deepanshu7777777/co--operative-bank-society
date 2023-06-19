@@ -9,4 +9,4 @@ provides personal banking services that gives you complete
 control over all your banking demands online.
 
 Techonlogy used 
-HTML, DBMS , CSS , JS , ETC
+HTML, DBMS , CSS , JS , Etc.
