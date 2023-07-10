@@ -8,5 +8,8 @@ Co-operative Society Management System internet banking portal
 provides personal banking services that gives you complete
 control over all your banking demands online.
 
+# This system can lead to 
+This system helps to make this done with timestamp 
+
 Techonlogy used 
 HTML, DBMS , CSS , JS , Etc.
